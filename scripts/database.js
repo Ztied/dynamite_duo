@@ -14,21 +14,25 @@ const database = {
 }
 
 const villainDatabase = {
-    heroes: [
+    villains: [
         {
             id: 1,
-            name: "Dynoguy",
-            power: "Fire blasts"
+            name: "Denim Venim",
+            power: "Water blasts"
         },
         {
             id: 2,
-            name: "Hyperspeed",
-            power: "Super speed"
+            name: "Undertaker",
+            power: "Super strength"
+        },
+        {
+            id:3,
+            name: "Sally",
+            power: "Mind control"
         }
+
     ],
-    villains: [
-        // Remove this comment and create some villain objects
-    ]
+   
 }
 
 
